@@ -40,4 +40,4 @@ As capturas de tela dos testes serão armazenadas na pasta `evidencias`.
 
 ## Código-fonte
 
-Repositório: [adicionar aqui o link do GitHub]
+Repositório: https://github.com/emersonsousa0/processamento-paralelo-python.git
